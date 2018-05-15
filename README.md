@@ -1,27 +1,63 @@
-# All My Courses (TODO and DONE) with short description and mark
+# All My Courses (TODO and DONE)
+
 
 #--------- TODO -----------------------------------------------------------------------------------------------------------
 
-__Digital Tutors - Setting Up a Split Screen Multiplayer Game in Unreal Engine
+[COURSERA]_machine-learning
 
-__Lighting in Unreal Engine
+[COURSERA]_nutrition-pregnancy
 
-__Lynda - Introduction to AR with Unreal and Xcode for Developers
+_Packtpub - Intermediate Coding Concepts with Unreal Engine 4
 
-__Lynda - Unreal Content Pipeline
+_Packt Publishing - Learning C++ by Creating Games with Unreal Engine 4
 
-__Pluralsight - Unreal Engine 4 Lighting Fundamentals
+_Packt Publishing – Advanced Coding with Unreal Engine 4
 
-__Technics Publications - Unreal Fundamentals
+_Packt Publishing – Scripting Unreal Game Characters
 
-__Udemy - Build the legend of zenda game in unity3d and blender
+_Pluralsight - Introduction to C++ in Unreal Engine
 
-__Unreal Engine 4 Course(Napolov)
+__Packt Publishing - Building an Unreal RTS Game The Basics
 
-__Exploring Unreal Engine 4 VR Editor and Essentials of VR
+__Packt Publishing - Building an Unreal RTS Game Adding Killer Features
 
+__Lynda - Unreal - Virtual Reality for Architectural & Industrial Visualization
+
+__Packt Publishing – Unreal Engine 4.x Projects
+
+__Pluralsight - Creating AI with Behavior States in Unreal Engine
+
+__Udemy - Blend into virtual reality with Unreal Engine - Part I
 
 #--------- DONE -----------------------------------------------------------------------------------------------------------
+
+
+#--------- Other -----------------------------------------------------------------------------------------------------------
+TTC - Biological Anthropology. An Evolutionary Perspective
+
+TTC - Medical Myths, Lies, and Half-Truths. What we think we know may be hurting us
+
+[COURSERA]_Learning-how-to-learn
+
+[COURSERA]_science-exercise
+
+#--------- Other end -----------------------------------------------------------------------------------------------------------
+
+
+
+Lighting in Unreal Engine
+
+Unreal Engine 4 Course(Napolov)
+
+Technics Publications - Unreal Fundamentals
+
+[COURSERA]_c-plus-plus-white
+
+[COURSERA]_c-plus-plus-yellow
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------
 
 Udemy - Endless Runner
 
@@ -66,6 +102,7 @@ Digital Tutors - Introduction to Matinee in Unreal Engine 4
 
 Digital Tutors - Quick Start to Unreal Engine 4.3 Volume 2
 
+Digital Tutors - Setting Up a Split Screen Multiplayer Game in Unreal Engine
 
 
 FXPHD - UNR202 Production in Unreal Engine 4
@@ -89,6 +126,10 @@ Lynda – Unreal Game Mechanics Camera Walk Action
 
 Lynda – Unreal Introduction to Materials
 
+Lynda - Unreal Content Pipeline
+
+Lynda - Introduction to AR with Unreal and Xcode for Developers
+
 
 
 
@@ -101,9 +142,14 @@ Packt Publishing – Basics of Coding with Unreal Engine 4
 
 Packt Publishing – Unreal Engine 4 Scripting with C++
 
+Packt Publishing – Exploring Unreal Engine 4 VR Editor and Essentials of VR
 
 
 
+
+
+
+Pluralsight - Unreal Engine 4 Lighting Fundamentals
 
 Pluralsight - Unreal Engine 4 Fundamentals 
 
@@ -138,4 +184,6 @@ UE4 C++ Network Multiplayer Game1080
 
 
 
+#--------- Not Now -----------------------------------------------------------------------------------------------------------
 
+TTC - Effective Communication Skills
