@@ -9,23 +9,34 @@
 
 _Packt Publishing - Learning C++ by Creating Games with Unreal Engine 4
 
-_Packt Publishing – Scripting Unreal Game Characters
+_Packt Publishing â€“ Scripting Unreal Game Characters
 
-__Packt Publishing – Unreal Engine 4.x Projects
+__Packt Publishing â€“ Unreal Engine 4.x Projects
 
 #-------------------------
 
 TTC Video - How We Learn
+
 TTC - Geometry - An Interactive Journey to Mastery
+
 TTC - High School Basic Math
+
 TTC - Mathematics Describing the Real World - Precalculus and Trigonometry
+
 TTC - Neuroscience of Everyday Life
+
 TTC - Optimizing Brain Fitness
+
 TTC - Outsmart Yourself
+
 TTC - Scientific Secrets For a Powerful Memory
+
 TTC - The Addictive Brain
+
 TTC - The Mathematics of Games and Puzzles
+
 TTC - Understanding Calculus
+
 TTC - Understanding the Brain
 
 #--------- DONE -----------------------------------------------------------------------------------------------------------
@@ -123,9 +134,9 @@ Lynda - VR Motion Graphics with Unreal Engine
 
 Lynda Unreal Introduction to Lighting
 
-Lynda – Unreal Game Mechanics Camera Walk Action
+Lynda â€“ Unreal Game Mechanics Camera Walk Action
 
-Lynda – Unreal Introduction to Materials
+Lynda â€“ Unreal Introduction to Materials
 
 Lynda - Unreal Content Pipeline
 
@@ -140,15 +151,15 @@ Packt Publishing - Intermediate Coding Concepts with Unreal Engine 4
 
 Packt Publishing - Mastering Unreal Engine 4.x Game Development
 
-Packt Publishing – Basics of Coding with Unreal Engine 4
+Packt Publishing â€“ Basics of Coding with Unreal Engine 4
 
-Packt Publishing – Unreal Engine 4 Scripting with C++
+Packt Publishing â€“ Unreal Engine 4 Scripting with C++
 
-Packt Publishing – Exploring Unreal Engine 4 VR Editor and Essentials of VR
+Packt Publishing â€“ Exploring Unreal Engine 4 VR Editor and Essentials of VR
 
 Packt Publishing - Intermediate Coding Concepts with Unreal Engine 4
 
-Packt Publishing – Advanced Coding with Unreal Engine 4
+Packt Publishing â€“ Advanced Coding with Unreal Engine 4
 
 Packt Publishing - Building an Unreal RTS Game The Basics
 
